@@ -1,6 +1,3 @@
-// ibnu arbianto pratama
-// 21.12.2143
-// SI 05
 #include <iostream>
 #include <string>
 using namespace std;
